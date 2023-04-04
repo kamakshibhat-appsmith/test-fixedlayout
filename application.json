@@ -1,6 +1,18 @@
 {
   "pages": [
     {
+      "id": "Customer messaging3",
+      "isDefault": false
+    },
+    {
+      "id": "Customer messaging2",
+      "isDefault": false
+    },
+    {
+      "id": "Customer messaging",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
@@ -83,6 +95,10 @@
     {
       "id": "Page21",
       "isDefault": false
+    },
+    {
+      "id": "Public.users",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -91,11 +107,11 @@
   "unpublishedApplicationDetail": {
     "navigationSetting": {
       "showNavbar": true,
-      "orientation": "side",
-      "navStyle": "sidebar",
+      "orientation": "top",
+      "navStyle": "inline",
       "position": "static",
       "itemStyle": "text",
-      "colorStyle": "theme",
+      "colorStyle": "light",
       "logoAssetId": "",
       "logoConfiguration": "logoAndApplicationTitle",
       "showSignIn": true
@@ -114,12 +130,13 @@
       "showSignIn": true
     }
   },
-  "color": "#ECECEC",
+  "color": "#FFEFDB",
+  "icon": "hospital",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
