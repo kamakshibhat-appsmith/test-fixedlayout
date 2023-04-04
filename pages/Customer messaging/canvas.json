@@ -5306,7 +5306,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Customer messaging3_JSObject1.masknumber",
+              "id": "642c6b450a0933667618ee32",
               "name": "getCustomerInfo",
               "collectionId": "Customer messaging3_JSObject1",
               "confirmBeforeExecute": false,
@@ -5317,7 +5317,7 @@
           ],
           [
             {
-              "id": "Customer messaging3_JSObject1.masknumber",
+              "id": "642c6b450a0933667618ee32",
               "name": "getMessages",
               "collectionId": "Customer messaging3_JSObject1",
               "confirmBeforeExecute": false,
